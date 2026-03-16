@@ -7,3 +7,5 @@ presidio-anonymizer
 pymongo
 python-dotenv
 pandas
+spacy
+bson
