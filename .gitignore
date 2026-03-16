@@ -1,0 +1,12 @@
+# Python environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data and OS
+.DS_Store
+data/
+*.csv
+*.log

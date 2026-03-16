@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+presidio-analyzer
+presidio-anonymizer
+pymongo
+python-dotenv
+pandas
