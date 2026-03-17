@@ -53,7 +53,7 @@ anonymizer, generator, db, monitor, scorer = init_system()
 
 # ── Header ─────────────────────────────────────────────────────────────────
 st.title("🛡️ SAR Automation & Compliance Dashboard")
-st.markdown("#### *Barclays Hack o Hire — Automated AML Detection System*")
+st.markdown("#### *Automated AML Detection System*")
 
 # Show DB connection status
 db_status = "🟢 MongoDB Connected" if db.connected else "🔴 MongoDB Offline (reports saved locally)"
